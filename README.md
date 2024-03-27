@@ -23,7 +23,7 @@
 
 ## Связь со мной
 
-- ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) [Telegram](https://t.me/ansterxyz)
+- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ansterxyz) [Telegram](https://t.me/ansterxyz)
 - ![VK](https://img.shields.io/badge/-VK-0088CC?style=flat-square&logo=vk&logoColor=white) [VK](https://vk.com/your_vk_username)
 - ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) [YouTube](https://www.youtube.com/your_channel)
 - ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white) [Steam](https://steamcommunity.com/id/your_steam_username)
@@ -46,4 +46,7 @@
 - [Бот 1](https://github.com/your_username/bot1) - Краткое описание бота 1.
 - [Бот 2](https://github.com/your_username/bot2) - Краткое описание бота 2.
 
-## Как связаться со
+## Как связаться со мной
+
+Если у вас есть вопросы или предложения о сотрудничестве, не стесняйтесь связаться со мной через любой из указанных каналов связи.
+
