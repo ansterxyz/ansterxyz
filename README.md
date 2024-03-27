@@ -14,6 +14,7 @@
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript
 - ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) Lua
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) SQL
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) PHP
 
 ## Мои интересы
 
@@ -23,10 +24,10 @@
 
 ## Связь со мной
 
-- ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) [Telegram](https://t.me/ansterxyz)
-- ![VK](https://img.shields.io/badge/-VK-0088CC?style=flat-square&logo=vk&logoColor=white) [VK](https://vk.com/your_vk_username)
-- ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) [YouTube](https://www.youtube.com/your_channel)
-- ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white) [Steam](https://steamcommunity.com/id/your_steam_username)
+- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ansterxyz)
+- [![VK](https://img.shields.io/badge/-VK-0088CC?style=flat-square&logo=vk&logoColor=white)](https://vk.com/ansterxyz)
+- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ansterxyz)
+- [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/ansterxyz)
 
 ## Мои проекты
 
@@ -49,4 +50,3 @@
 ## Как связаться со мной
 
 Если у вас есть вопросы или предложения о сотрудничестве, не стесняйтесь связаться со мной через любой из указанных каналов связи.
-
