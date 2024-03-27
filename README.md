@@ -26,7 +26,7 @@
 - ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) [Telegram](https://t.me/your_telegram_username)
 - ![VK](https://img.shields.io/badge/-VK-0088CC?style=flat-square&logo=vk&logoColor=white) [VK](https://vk.com/your_vk_username)
 - ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) [YouTube](https://www.youtube.com/your_channel)
-- ![Steam Logo](https://i.imgur.com/2XgiDt5.png) [anster](https://steamcommunity.com/id/edgesubtle/)
+- ![Steam Logo](https://i.imgur.com/2XgiDt5.png) __Steam__ - [anster](https://steamcommunity.com/id/edgesubtle/)
 
 ## Мои проекты
 
