@@ -23,10 +23,10 @@
 
 ## Связь со мной
 
-- ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) [Telegram](https://t.me/your_telegram_username)
-- ![VK](https://img.shields.io/badge/-VK-0088CC?style=flat-square&logo=vk&logoColor=white) [VK](https://vk.com/your_vk_username)
-- ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) [YouTube](https://www.youtube.com/your_channel)
-- ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white) [Steam](https://steamcommunity.com/id/your_steam_username)
+- ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+- ![VK](https://img.shields.io/badge/-VK-0088CC?style=flat-square&logo=vk&logoColor=white)
+- ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
+- ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)
 
 ## Мои проекты
 
