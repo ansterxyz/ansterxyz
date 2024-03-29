@@ -19,7 +19,7 @@ I'm proficient in :
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) SQL
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) PHP
 
-## 🔮 Projects
+## Projects
 <!--
 ### Веб-разработка
 - [Проект 1](https://github.com/your_username/project1) - Краткое описание проекта 1.
@@ -38,7 +38,7 @@ I'm proficient in :
 - [Бот 2](https://github.com/your_username/bot2) - Краткое описание бота 2.
 -->
 
-## 💬 Socials
+## Socials
 
 - [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ansterxyz)
 - [![VK](https://img.shields.io/badge/-VK-0088CC?style=flat-square&logo=vk&logoColor=white)](https://vk.com/ansterxyz)
