@@ -1,8 +1,10 @@
-# Привет, я Кирилл 👋
+# Anster👋
 
 ![Profile Banner](https://placekitten.com/1000/300) <!-- Замени ссылку на свою фотографию -->
 
-Я занимаюсь веб-разработкой, десктоп-разработкой, написанием скриптов и чат-ботов. Моей целью является продемонстрировать мои навыки и делиться знаниями через свои проекты и портфолио.
+Welcome to my profile. I'm Anster, 18 years old (🇷🇺). I'm interested in graphic designing, programming, game hacking and windows kernel security development. I'm proficient in Lua, C/C++, ASM and ok-ish in PHP and JavaScript.
+
+Project Manager, Lua API, UI/UX developer @ neverlose
 
 ## Основные языки и технологии
 
