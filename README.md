@@ -1,4 +1,4 @@
-# Anster
+# About me
 
 ![Profile Banner](https://placekitten.com/1000/300) <!-- Замени ссылку на свою фотографию -->
 
