@@ -41,8 +41,8 @@ Welcome to my profile. I'm Anster, 18 years old (🇷🇺). I'm interested in gr
 
 ## Socials
 
-- [![Telegram Logo](https://img.shields.io/badge/-2CA5E0?style=flat-square&logo=telegram&logoColor=white)] __YouTube__ - [Anster](https://t.me/ansterxyz)
+- [![Telegram](https://img.shields.io/badge/-2CA5E0?style=flat-square&logo=telegram&logoColor=white)]
 - [![VK](https://img.shields.io/badge/-0088CC?style=flat-square&logo=vk&logoColor=white)](https://vk.com/ansterxyz)
-- [![YouTube](https://img.shields.io/badge/-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ansterxyz)
+- [![YouTube](https://img.shields.io/badge/-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ansterxyz)__YouTube__ - [Anster](https://t.me/ansterxyz)
 - [![Steam](https://img.shields.io/badge/-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/ansterxyz)
 
