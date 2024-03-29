@@ -1,13 +1,14 @@
-# Anster👋
+# Anster
 
 ![Profile Banner](https://placekitten.com/1000/300) <!-- Замени ссылку на свою фотографию -->
 
-Welcome to my profile. I'm Anster, 18 years old (🇷🇺). I'm interested in graphic designing, programming, game hacking and windows kernel security development. I'm proficient in Lua, C/C++, ASM and ok-ish in PHP and JavaScript.
+Welcome to my profile. I'm Anster, 18 years old (🇷🇺). I'm interested in graphic designing, programming, game hacking and windows kernel security development.
 
-Project Manager, Lua API, UI/UX developer @ neverlose
+<!--Project Manager, Lua API, UI/UX developer @ Laventura-->
 
-## Основные языки и технологии
+## Languages and technologies
 
+I'm proficient in :
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) C++
 - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) C#
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) Python
@@ -18,21 +19,8 @@ Project Manager, Lua API, UI/UX developer @ neverlose
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) SQL
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) PHP
 
-## Мои интересы
-
-- Графический дизайн
-- Программирование
-- Взлом игр
-
-## Связь со мной
-
-- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ansterxyz)
-- [![VK](https://img.shields.io/badge/-VK-0088CC?style=flat-square&logo=vk&logoColor=white)](https://vk.com/ansterxyz)
-- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ansterxyz)
-- [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/ansterxyz)
-
-## Мои проекты
-
+## Projects
+<!--
 ### Веб-разработка
 - [Проект 1](https://github.com/your_username/project1) - Краткое описание проекта 1.
 - [Проект 2](https://github.com/your_username/project2) - Краткое описание проекта 2.
@@ -48,7 +36,11 @@ Project Manager, Lua API, UI/UX developer @ neverlose
 ### Чат-боты
 - [Бот 1](https://github.com/your_username/bot1) - Краткое описание бота 1.
 - [Бот 2](https://github.com/your_username/bot2) - Краткое описание бота 2.
+-->
 
-## Как связаться со мной
+## Socials
 
-Если у вас есть вопросы или предложения о сотрудничестве, не стесняйтесь связаться со мной через любой из указанных каналов связи.
+- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ansterxyz)
+- [![VK](https://img.shields.io/badge/-VK-0088CC?style=flat-square&logo=vk&logoColor=white)](https://vk.com/ansterxyz)
+- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ansterxyz)
+- [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/ansterxyz)
