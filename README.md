@@ -6,7 +6,7 @@ Welcome to my profile. I'm Anster, 18 years old (🇷🇺). I'm interested in gr
 
 <!--Project Manager, Lua API, UI/UX developer @ Laventura-->
 
-## Languages and technologies
+## 🔧 Languages and technologies
 
 I'm proficient in :
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) C++
