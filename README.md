@@ -23,7 +23,7 @@ Welcome to my profile. I'm Anster, 18 years old (🇷🇺). I'm interested in gr
 ![counter](https://moe-counter.glitch.me/get/@ansterxyz?theme=asoul) \
 \
 [![wakatime](https://wakatime.com/badge/user/018e890f-f867-4895-9ed9-5cfa1c0ada53.svg)](https://wakatime.com/@018e890f-f867-4895-9ed9-5cfa1c0ada53)\
-[![wakatime](<figure><embed src="https://wakatime.com/share/@ansterxyz/b11e1e30-c34e-4c3c-b878-7d239e0267cd.svg"></embed></figure>)](https://wakatime.com/@ansterxyz)
+[![wakatime](https://wakatime.com/@ansterxyz)
 <!--
 ### Веб-разработка
 - [Проект 1](https://github.com/your_username/project1) - Краткое описание проекта 1.
